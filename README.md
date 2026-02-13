@@ -12,6 +12,12 @@ This project demonstrates:
 
 ---
 
+
+## 🖼️ UML Class Diagram
+
+<img width="1041" height="818" alt="image" src="https://github.com/user-attachments/assets/dec7dbbf-57a3-432a-bbaf-38a2de3a980b" />
+
+
 ## 📌 Project Overview
 
 This system simulates a basic E-commerce platform where:
