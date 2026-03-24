@@ -84,36 +84,6 @@ ECommerceProject/
 └── README.md
 ```
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```
-git clone https://github.com/yourusername/ECommerce-UML-Project.git
-```
-
-2. Navigate to project folder:
-
-```
-cd ECommerce-UML-Project
-```
-
-3. Compile:
-
-```
-javac *.java
-```
-
-4. Run:
-
-```
-java ECommerceApp
-```
-
----
-
 ## 🎯 Learning Objectives
 
 This project was built to practice:
